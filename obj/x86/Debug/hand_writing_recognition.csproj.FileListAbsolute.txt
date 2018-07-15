@@ -1,0 +1,4 @@
+C:\Users\computer\Desktop\GIAMMI\Programmazione\C#\hand_writing_recognition\hand_writing_recognition\bin\Debug\hand_writing_recognition.exe
+C:\Users\computer\Desktop\GIAMMI\Programmazione\C#\hand_writing_recognition\hand_writing_recognition\bin\Debug\hand_writing_recognition.pdb
+C:\Users\computer\Desktop\GIAMMI\Programmazione\C#\hand_writing_recognition\hand_writing_recognition\obj\x86\Debug\hand_writing_recognition.exe
+C:\Users\computer\Desktop\GIAMMI\Programmazione\C#\hand_writing_recognition\hand_writing_recognition\obj\x86\Debug\hand_writing_recognition.pdb

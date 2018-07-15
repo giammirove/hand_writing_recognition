@@ -1,0 +1,38 @@
+FISSO
+	MAX_IMG = 100 for y
+		n_neuron_hidden = 5
+			eps = 0.2
+				10 output = 7 min
+
+	MAX_IMG = 1000 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = 65 min (overfitting) (epoche 1 = 25 sec)
+	MAX_IMG = 1000 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = overfitting or not (epoche = 100)
+	MAX_IMG = 100 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = 7 min (MSE = 0.127)
+	MAX_IMG = 200 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = 14 min (MSE = 0.036)
+	MAX_IMG = 100 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = 7 min (MSE = 0.127)
+	MAX_IMG = 300 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = ERROR (valori sballati) (epoche = 1000)
+	MAX_IMG = 5000 for y
+		n_neuron_hidden = 5
+			eps = 0.1
+				10 output = ERROR (valori sballati) (epoche = 10)
+	MAX_IMG = 60000 TOTAL
+		n_neuron_hidden = 20
+			eps = 0.2
+				10 output = 75 sec (epoche = 1)

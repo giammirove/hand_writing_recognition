@@ -1,0 +1,22 @@
+FISSO
+	epoche 100
+		max_img = 1000
+			batch = 100
+				n_neuron_hidden = 5
+					10 output = 40 sec (max error 0.03)
+	epoche 1000
+		max_img = 1000
+			batch = 100
+				n_neuron_hidden = 5
+					10 output = 6 min
+				n_neuron_hidden = 10
+					10 output = 60 min
+		max_img = 10000
+			batch = 1000
+				n_neuron_hidden = 5
+					10 output = 54 min
+	epoche 1
+		max_img 42000
+			n_neuron_hidden = 10
+				10 output = 30 sec
+		
